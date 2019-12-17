@@ -1,0 +1,4 @@
+* if you find any relation that's gives you a wrong results please tell me 
+** you can run the program from "bin" folder then "Debug" then "Equivalence_Relations.exe" ... 
+*** i hope it's useful .
+good luck :) <3 
